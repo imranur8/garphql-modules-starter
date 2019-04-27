@@ -1,0 +1,7 @@
+{
+  "name": "Express API",
+  "version": "1.0.0",
+  "description": "Express REST API server documentations.",
+  "title": "Custom apiDoc browser title",
+  "url": "http://locahost:4000/v1/api"
+}
